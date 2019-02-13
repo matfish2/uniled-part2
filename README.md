@@ -1,7 +1,7 @@
 # Installation
 
 ```
-git clone
+git clone https://github.com/matfish2/uniled-part2.git
 cd uniled-part2
 ```
 
